@@ -12,7 +12,7 @@ image.png
 ### Links
 
 - Solution URL: [Repo](https://github.com/eyedent1ty/coding-bootcamp-testimonials-slider)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://eyedent1ty-coding-bootcamp-testimonials-slider.netlify.app/)
 
 ### Built with
 
